@@ -1,11 +1,5 @@
-# ZMK Module Template
+This repo contains firmware for a terrible PCB design that I made just to get used to a key layout.
 
-This repository contains a template for a ZMK module, as it would most frequently be used. 
+Please don't use this if you find this.
 
-## Usage
-
-Read through the **ZMK Module Creation** page for details on how to configure this template.
-
-## More Info
-
-For more info on modules, you can read through  through the [Zephyr modules page]() and [ZMK's page on using modules](). [Zephyr's west manifest page]() may also be of use.
+All rights reserved because I don't want you to use this.

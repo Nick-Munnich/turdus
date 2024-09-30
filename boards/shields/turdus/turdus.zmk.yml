@@ -1,0 +1,11 @@
+file_format: "1"
+id: turdus
+name: Turdus
+type: shield
+url: https://github.com/Nick-Munnich
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - turdus_left
+  - turdus_right
