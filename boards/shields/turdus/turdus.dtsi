@@ -34,7 +34,6 @@
 
     kscan2: kscan2 {
         compatible = "zmk,kscan-composite";
-        wakeup-source;
         rows = <5>;
         cols = <5>;
 
