@@ -35,7 +35,7 @@
     kscan2: kscan2 {
         compatible = "zmk,kscan-composite";
         rows = <5>;
-        cols = <5>;
+        columns = <5>;
 
         // Include the matrix driver
         matrix {
