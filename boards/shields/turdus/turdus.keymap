@@ -14,5 +14,25 @@
                                     &kp U &kp V &kp W             &kp X &kp Y &kp Z 
             >;
         };
+
+        extra_layer1 {};
+
+        extra_layer2 {};
+
+        extra_layer3 {};
+
+        extra_layer4 {};
+
+        extra_layer5 {};
+
+        extra_layer6 {};
+
+        extra_layer7 {};
+
+        extra_layer8 {};
+
+        extra_layer9 {};
+
+        extra_layer10 {};
     };
  };
