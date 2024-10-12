@@ -15,24 +15,24 @@
             >;
         };
 
-        extra_layer1 {};
+        extra_layer1 {status = "reserved";};
 
-        extra_layer2 {};
+        extra_layer2 {status = "reserved";};
 
-        extra_layer3 {};
+        extra_layer3 {status = "reserved";};
 
-        extra_layer4 {};
+        extra_layer4 {status = "reserved";};
 
-        extra_layer5 {};
+        extra_layer5 {status = "reserved";};
 
-        extra_layer6 {};
+        extra_layer6 {status = "reserved";};
 
-        extra_layer7 {};
+        extra_layer7 {status = "reserved";};
 
-        extra_layer8 {};
+        extra_layer8 {status = "reserved";};
 
-        extra_layer9 {};
+        extra_layer9 {status = "reserved";};
 
-        extra_layer10 {};
+        extra_layer10 {status = "reserved";};
     };
  };
